@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Vignesh/AndroidStudioProjects/discount-calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/Vignesh/AndroidStudioProjects/discount-calculator/app/build/intermediates/pre-dexed/release/classes-2ae0ddfcd8991ee61acf1f2a87e38747d9c556e8.jar" />
+    </item>
+    <item
+        jar="/Users/Vignesh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Vignesh/AndroidStudioProjects/discount-calculator/app/build/intermediates/pre-dexed/release/support-annotations-22.2.0-712e06f45e80bea09a5c86b5d83eba7a02b12cc0.jar" />
+    </item>
+    <item
+        jar="/Users/Vignesh/AndroidStudioProjects/discount-calculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Vignesh/AndroidStudioProjects/discount-calculator/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0-60b6abb78f58da7aa82468ba0be3a47f7fcc75bd.jar" />
+    </item>
+    <item
+        jar="/Users/Vignesh/AndroidStudioProjects/discount-calculator/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/Users/Vignesh/AndroidStudioProjects/discount-calculator/app/build/intermediates/pre-dexed/release/classes-35fb0c70aab7ff13750309168336d983b16d0f12.jar" />
+    </item>
+    <item
+        jar="/Users/Vignesh/AndroidStudioProjects/discount-calculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Vignesh/AndroidStudioProjects/discount-calculator/app/build/intermediates/pre-dexed/release/classes-abc04eec6b5903124c9949de6601c66704bb8011.jar" />
+    </item>
+    <item
+        jar="/Users/Vignesh/AndroidStudioProjects/discount-calculator/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="/Users/Vignesh/AndroidStudioProjects/discount-calculator/app/build/intermediates/pre-dexed/release/classes-48752f3d0cee41cad32a21a668b5cd3c573eacf4.jar" />
+    </item>
+
+</items>
